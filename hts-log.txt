@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 Jun 2024 14:30:54 at http://slither.com/io +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A99999999999%c700%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://slither.com/io -O1 "C:\My Web Sites\slitherio2" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:30:54	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+14:30:54	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+14:30:54	Warning: 	Found for slither.com/robots.txt
+14:30:54	Warning: 	File has moved from slither.com/robots.txt to http://slither.com/io
+14:30:58	Warning: 	Found for slither.com/?6
+14:30:58	Warning: 	File has moved from slither.com/?6 to http://slither.com/io
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 15 links scanned, 13 files written (534459 bytes overall) [391564 bytes received at 97891 bytes/sec], 198663 bytes transferred using HTTP compression in 2 files, ratio 25%, 2.6 requests per connection
+(No errors, 6 warnings, 0 messages)
